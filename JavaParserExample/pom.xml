@@ -14,5 +14,16 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependencies>
+    <!-- Existing dependencies -->
+    
+    <!-- JavaParser Dependency -->
+    <dependency>
+        <groupId>com.github.javaparser</groupId>
+        <artifactId>javaparser-core</artifactId>
+        <version>3.25.4</version> <!-- Use the latest version if available -->
+    </dependency>
+
+
   </dependencies>
 </project>
